@@ -1,0 +1,3 @@
+Esta é a primeira frase.
+Aqui está a segunda frase.
+Finalmente, esta é a terceira frase.
